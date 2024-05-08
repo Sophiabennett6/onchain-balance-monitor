@@ -107,3 +107,4 @@
 # fix 1007
 # refactor 7582
 # refactor 8925
+# fix 7725
