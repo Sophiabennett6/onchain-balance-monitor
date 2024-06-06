@@ -43,3 +43,4 @@
 # fix 6044
 # refactor 4779
 # refactor 9030
+# fix 7278
