@@ -86,3 +86,4 @@ aiohttp==0.3.2
 eth-abi==0.7.5
 web3==0.3.1
 web3==0.7.0
+eth-abi==0.3.8
