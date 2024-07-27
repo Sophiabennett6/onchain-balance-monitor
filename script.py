@@ -61,3 +61,4 @@
 # fix 3151
 # refactor 9914
 # fix 3005
+# fix 1534
