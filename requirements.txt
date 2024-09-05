@@ -54,3 +54,4 @@ aiohttp==0.7.9
 aiohttp==2.4.8
 aiohttp==0.8.3
 aiohttp==0.5.5
+requests==2.2.2
