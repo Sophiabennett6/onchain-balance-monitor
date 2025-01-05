@@ -81,3 +81,4 @@
 # fix 1876
 # fix 2434
 # optimize 3031
+# fix 1022
