@@ -99,3 +99,4 @@
 # fix 2259
 # optimize 4358
 # optimize 6813
+# optimize 1002
