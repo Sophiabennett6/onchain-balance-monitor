@@ -104,3 +104,4 @@
 # refactor 1666
 # refactor 5791
 # fix 6574
+# fix 1007
